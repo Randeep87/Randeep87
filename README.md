@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Randeep 👋  
 
-<!--
-**Randeep87/Randeep87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 SQL Developer | Data Engineer | BI Enthusiast  | Data Analyst
+📍 Based in Sweden  
 
-Here are some ideas to get you started:
+🔹 Skills:
+- SQL Server, ETL, Data Modeling
+- Power BI, Python (Scikit-learn)
+- Machine Learning (Gradient Boosting, XGBoost)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Projects:
+- PM2.5 Air Pollution Prediction
+- CO₂ Emission Clustering (PCA + KMeans)
+- SQL Data Warehouse Project
+- Unemployment growth in Germany (PowerBI Dashboard)
+
+🔹 Interests:
+- Data Engineering
+- Environmental Data Analysis
+- Business Intelligence
+
+📫 Contact:
+- LinkedIn: https://www.linkedin.com/in/randeeprakshit/
+- Email: randeepraghunathan0110@gmail.com
